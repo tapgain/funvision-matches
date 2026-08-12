@@ -1,0 +1,41 @@
+name: fetch-matches
+
+on:
+  schedule:
+    # Türkiye saatiyle 06:00 ve 12:00 (UTC+3; kış saati için UTC+2 — 07:00/10:00 UTC sabittir)
+    - cron: '0 4 * * *'
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch real match data
+        run: node scripts/fetch-real-matches.mjs
+        env:
+          MATCH_TEAMS: 'Galatasaray,Fenerbahçe,Beşiktaş,Trabzonspor,Türkiye'
+          MATCH_LOOKAHEAD_H: '96'
+
+      - name: Commit matches.json
+        run: |
+          git config user.name "match-fetch-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/matches.json data/match-team-ids.json
+          if git diff --cached --quiet; then
+            echo "Veri değişmedi — commit yok"
+          else
+            git commit -m "matches: günlük otomatik güncelleme"
+            git push
+          fi
