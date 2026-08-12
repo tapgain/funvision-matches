@@ -264,18 +264,24 @@ async function main() {
 
   const normalizePair = (home, away) =>
     [normalizeTeam(home), normalizeTeam(away)].sort().join('-')
-  const sofaByPair = new Map()
-  for (const match of matches) {
-    const pair = normalizePair(match.homeTeam, match.awayTeam)
-    if (!sofaByPair.has(pair)) sofaByPair.set(pair, [])
-    sofaByPair.get(pair).push(match)
-  }
   const mergeWindowMs = 90 * 60 * 1000
+  const shareTeam = (left, right) => {
+    const leftTeams = new Set([normalizeTeam(left.homeTeam), normalizeTeam(left.awayTeam)])
+    const rightTeams = new Set([normalizeTeam(right.homeTeam), normalizeTeam(right.awayTeam)])
+    for (const team of leftTeams) {
+      if (team && rightTeams.has(team)) return true
+    }
+    return false
+  }
   for (const broadcast of broadcasts) {
-    const candidates = sofaByPair.get(normalizePair(broadcast.homeTeam, broadcast.awayTeam)) ?? []
-    const match = candidates.find(
-      (candidate) => Math.abs(Date.parse(candidate.startsAt) - Date.parse(broadcast.startsAt)) <= mergeWindowMs,
+    const candidates = matches.filter(
+      (candidate) =>
+        Math.abs(Date.parse(candidate.startsAt) - Date.parse(broadcast.startsAt)) <= mergeWindowMs &&
+        shareTeam(candidate, broadcast),
     )
+    // Önce tam fikstür eşleşmesi, yoksa (farklı yazılan takım adlarıyla) ortak takım eşleşmesi.
+    const match = candidates.find((candidate) => normalizePair(candidate.homeTeam, candidate.awayTeam) === normalizePair(broadcast.homeTeam, broadcast.awayTeam))
+      ?? candidates[0]
     if (match) {
       if (!match.channelName) {
         match.channelName = broadcast.channelName
