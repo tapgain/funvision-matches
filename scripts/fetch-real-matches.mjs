@@ -252,6 +252,15 @@ async function main() {
   } catch (error) {
     console.warn(`[fetch-matches] Sporx alınamadı: ${error.message}`)
   }
+  // Sahadan: Sporx'ten daha spesifik kanal adları (beIN SPORTS MAX 1 vb.).
+  try {
+    const { fetchSahadanBroadcasts } = await import('./scrape-sahadan-broadcasts.mjs')
+    const sahadan = await fetchSahadanBroadcasts(resolved.map((team) => team.name))
+    broadcasts = [...sahadan, ...broadcasts]
+    console.log(`[fetch-matches] Sahadan: ${sahadan.length} maç yayını`)
+  } catch (error) {
+    console.warn(`[fetch-matches] Sahadan alınamadı: ${error.message}`)
+  }
 
   const normalizePair = (home, away) =>
     [normalizeTeam(home), normalizeTeam(away)].sort().join('-')
@@ -273,6 +282,14 @@ async function main() {
       }
     } else {
       matches.push(broadcast)
+    }
+  }
+
+  // Süper Lig beIN ailesinde yayınlanır (beIN'in resmî duyurusu). Kesin alt kanal
+  // maç günü Sporx/Sahadan akışından gelir; bilinmiyorsa aile etiketi gösterilir.
+  for (const match of matches) {
+    if (!match.channelName && /super lig|süper lig|turkish super lig/i.test(match.competition ?? '')) {
+      match.channelName = 'beIN SPORTS'
     }
   }
 
