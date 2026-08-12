@@ -18,6 +18,15 @@
       "isFriendly": false
     },
     {
+      "id": "sahadan:QmXFn2lrdGHFn3xILiBLcmFs",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "H. Kralove",
+      "competition": "Futbol",
+      "startsAt": "2026-08-13 17:00:00Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
       "id": "tsdb:2527727",
       "homeTeam": "Galatasaray",
       "awayTeam": "Çorum",
