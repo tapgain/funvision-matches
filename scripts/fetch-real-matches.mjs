@@ -120,6 +120,52 @@ async function fetchUpcomingMatches(teamId) {
   return data.events ?? []
 }
 
+// TheSportsDB — anahtarsız, anti-bot'suz; Sofascore bulut IP'lerine boş yanıt
+// verdiği için bulut çalışmalarında fikstür buradan gelir.
+const KNOWN_TSPORTS_IDS = {
+  galatasaray: 133804,
+  fenerbahce: 133807,
+  besiktas: 133794,
+  trabzonspor: 133796,
+  turkiye: 135985,
+}
+
+async function resolveTsportsTeamId(name) {
+  const key = normalizeTeam(name)
+  if (KNOWN_TSPORTS_IDS[key]) return KNOWN_TSPORTS_IDS[key]
+  const data = await sofaJson(`https://www.thesportsdb.com/api/v1/json/3/searchteams.php?t=${encodeURIComponent(name)}`)
+  const team = (data.teams ?? []).find((entry) => normalizeTeam(entry.strTeam) === key)
+  if (!team) throw new Error(`TheSportsDB takım bulunamadı: ${name}`)
+  return Number(team.idTeam)
+}
+
+async function fetchTsportsFixtures(teamIds) {
+  const entries = []
+  for (const teamId of teamIds) {
+    try {
+      const data = await sofaJson(`https://www.thesportsdb.com/api/v1/json/3/eventsnext.php?id=${teamId}`)
+      for (const event of data.events ?? []) {
+        const home = event.strHomeTeam
+        const away = event.strAwayTeam
+        const startsAt = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}/.test(event.strTimestamp ?? '') ? `${event.strTimestamp}Z` : undefined
+        if (!home || !away || !startsAt) continue
+        entries.push({
+          id: `tsdb:${event.idEvent}`,
+          homeTeam: home,
+          awayTeam: away,
+          competition: event.strLeague || 'Futbol',
+          startsAt,
+          channelName: '',
+          isFriendly: /friendly|hazirlik|hazırlık/i.test(`${event.strLeague ?? ''} ${event.strEvent ?? ''}`),
+        })
+      }
+    } catch (error) {
+      console.warn(`[fetch-matches] TheSportsDB (${teamId}): ${error.message}`)
+    }
+  }
+  return entries
+}
+
 async function main() {
   const now = Date.now()
   const windowEnd = now + lookaheadHours * 60 * 60 * 1000
@@ -171,6 +217,28 @@ async function main() {
         isFriendly: isFriendlyTournament(event.tournament?.name),
       })
     }
+  }
+
+  // TheSportsDB yedeği: Sofascore boş döndüğünde (bulut IP engeli) fikstür
+  // buradan gelir; mevcut kayıtlarla aynı fikstür tekrarlanmaz.
+  if (matches.length === 0) {
+    const tsportsIds = []
+    for (const team of resolved) {
+      try {
+        tsportsIds.push(await resolveTsportsTeamId(team.name))
+      } catch (error) {
+        console.warn(`[fetch-matches] TheSportsDB: ${error.message}`)
+      }
+    }
+    const tsports = await fetchTsportsFixtures(tsportsIds)
+    const nowMs = now
+    const windowEndMs = windowEnd
+    for (const entry of tsports) {
+      const startMs = Date.parse(entry.startsAt)
+      if (!Number.isFinite(startMs) || startMs < nowMs || startMs > windowEndMs) continue
+      matches.push(entry)
+    }
+    console.log(`[fetch-matches] TheSportsDB: ${tsports.length} maç (Sofascore boştu)`)
   }
 
   // Sporx yayın akışı: günün maçları + KANAL adı (Sofascore'da eksik olan bilgi).
