@@ -69,11 +69,27 @@ function sofaJson(url) {
   return JSON.parse(stdout)
 }
 
+// Sofascore takım kimlikleri — arama uç noktası bulut IP'lerinde tutarsız
+// yanıt verdiği için bilinen kimlikler gömülü yedektir (önbellek → bu harita → arama).
+const KNOWN_TEAM_IDS = {
+  galatasaray: 3061,
+  fenerbahce: 3052,
+  besiktas: 256017,
+  trabzonspor: 3051,
+  turkiye: 4700,
+}
+
 /** Takım adını Sofascore takım kimliğine çözer (önbellekli). */
 async function resolveTeamId(name) {
   const cache = readJson(idCacheFile, {})
   const key = normalizeTeam(name)
   if (cache[key]?.id) return cache[key]
+  if (KNOWN_TEAM_IDS[key]) {
+    const known = { id: KNOWN_TEAM_IDS[key], name, national: /turkiye|türkiye/i.test(name) }
+    mkdirSync(dirname(idCacheFile), { recursive: true })
+    writeFileSync(idCacheFile, JSON.stringify({ ...cache, [key]: known }, null, 2))
+    return known
+  }
 
   const data = await sofaJson(`https://api.sofascore.com/api/v1/search/all?q=${encodeURIComponent(name)}`)
   const candidates = (data.results ?? [])
