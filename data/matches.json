@@ -7,33 +7,5 @@
     "Türkiye"
   ],
   "lookaheadHours": 96,
-  "matches": [
-    {
-      "id": "sofa:16483638",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "Çorum FK",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-14T18:30:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    },
-    {
-      "id": "sofa:16483635",
-      "homeTeam": "Kasımpaşa",
-      "awayTeam": "Trabzonspor",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-15T16:00:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    },
-    {
-      "id": "sofa:16483632",
-      "homeTeam": "Gençlerbirliği",
-      "awayTeam": "Fenerbahçe",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-15T18:30:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    }
-  ]
+  "matches": []
 }

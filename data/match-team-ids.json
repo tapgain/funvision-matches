@@ -1,0 +1,27 @@
+{
+  "galatasaray": {
+    "id": 3061,
+    "name": "Galatasaray",
+    "national": false
+  },
+  "fenerbahce": {
+    "id": 3052,
+    "name": "Fenerbahçe",
+    "national": false
+  },
+  "besiktas": {
+    "id": 256017,
+    "name": "Beşiktaş",
+    "national": false
+  },
+  "trabzonspor": {
+    "id": 3051,
+    "name": "Trabzonspor",
+    "national": false
+  },
+  "turkiye": {
+    "id": 4700,
+    "name": "Türkiye",
+    "national": true
+  }
+}
