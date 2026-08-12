@@ -7,5 +7,42 @@
     "Türkiye"
   ],
   "lookaheadHours": 96,
-  "matches": []
+  "matches": [
+    {
+      "id": "tsdb:2554321",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "Hradec Králové",
+      "competition": "UEFA Europa League",
+      "startsAt": "2026-08-13T17:00:00Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "tsdb:2527727",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Çorum",
+      "competition": "Turkish Super Lig",
+      "startsAt": "2026-08-14T18:30:00Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "tsdb:2527729",
+      "homeTeam": "Kasımpaşa",
+      "awayTeam": "Trabzonspor",
+      "competition": "Turkish Super Lig",
+      "startsAt": "2026-08-15T16:00:00Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "tsdb:2527728",
+      "homeTeam": "Gençlerbirliği",
+      "awayTeam": "Fenerbahçe",
+      "competition": "Turkish Super Lig",
+      "startsAt": "2026-08-15T18:30:00Z",
+      "channelName": "",
+      "isFriendly": false
+    }
+  ]
 }
