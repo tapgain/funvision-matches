@@ -18,6 +18,15 @@
       "isFriendly": false
     },
     {
+      "id": "sporx:QmXFn2lrdGHFn3xIcmFkZWMg",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "Hradec Kralove",
+      "competition": "Futbol",
+      "startsAt": "2026-08-13T20:00:00.000Z",
+      "channelName": "TV100",
+      "isFriendly": false
+    },
+    {
       "id": "tsdb:2527727",
       "homeTeam": "Galatasaray",
       "awayTeam": "Çorum",
