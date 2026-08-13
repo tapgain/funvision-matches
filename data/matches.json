@@ -14,7 +14,7 @@
       "awayTeam": "Hradec Králové",
       "competition": "UEFA Europa League",
       "startsAt": "2026-08-13T17:00:00Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport, S Sport Plus",
       "isFriendly": false
     },
     {
@@ -32,7 +32,7 @@
       "awayTeam": "Çorum",
       "competition": "Turkish Super Lig",
       "startsAt": "2026-08-14T18:30:00Z",
-      "channelName": "beIN SPORTS",
+      "channelName": "beIN SPORTS 1",
       "isFriendly": false
     },
     {
@@ -41,7 +41,7 @@
       "awayTeam": "Trabzonspor",
       "competition": "Turkish Super Lig",
       "startsAt": "2026-08-15T16:00:00Z",
-      "channelName": "beIN SPORTS",
+      "channelName": "beIN SPORTS 1",
       "isFriendly": false
     },
     {
@@ -50,7 +50,16 @@
       "awayTeam": "Fenerbahçe",
       "competition": "Turkish Super Lig",
       "startsAt": "2026-08-15T18:30:00Z",
-      "channelName": "beIN SPORTS",
+      "channelName": "beIN SPORTS 1",
+      "isFriendly": false
+    },
+    {
+      "id": "sahadan:QmXFn2lrdGHFn3xFecO8cHNw",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "Eyüpspor",
+      "competition": "Futbol",
+      "startsAt": "2026-08-16 18:30:00Z",
+      "channelName": "beIN SPORTS 1",
       "isFriendly": false
     }
   ]
