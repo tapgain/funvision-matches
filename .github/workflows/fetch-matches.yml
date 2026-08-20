@@ -1,6 +1,11 @@
 name: fetch-matches
 
 on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'data/matches.json'
+      - 'public/matches.json'
   schedule:
     # Türkiye saatiyle sabah ve öğlen; GitHub cron UTC çalışır.
     - cron: '0 4 * * *'
