@@ -17,13 +17,13 @@ permissions:
 
 jobs:
   fetch:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Setup Node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 24
 
@@ -34,6 +34,7 @@ jobs:
           MATCH_TEAMS: 'Galatasaray,Fenerbahçe,Beşiktaş,Trabzonspor,Türkiye'
 
       - name: Commit matches.json
+        shell: bash
         run: |
           git config user.name "match-fetch-bot"
           git config user.email "actions@users.noreply.github.com"
