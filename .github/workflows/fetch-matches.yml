@@ -2,8 +2,9 @@ name: fetch-matches
 
 on:
   schedule:
-    # Günlük yenileme (Türkiye saatiyle yaklaşık 06:17; GitHub cron UTC çalışır)
-    - cron: '17 3 * * *'
+    # Türkiye saatiyle sabah ve öğlen; GitHub cron UTC çalışır.
+    - cron: '0 4 * * *'
+    - cron: '0 9 * * *'
   workflow_dispatch:
 
 permissions:
@@ -19,18 +20,19 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
 
-      - name: Fetch real match data
+      - name: Fetch football broadcasts from Yayın Ekranı
         run: node scripts/fetch-yayinekrani-matches.mjs
         env:
           TZ: Europe/Istanbul
+          MATCH_TEAMS: 'Galatasaray,Fenerbahçe,Beşiktaş,Trabzonspor,Türkiye'
 
       - name: Commit matches.json
         run: |
           git config user.name "match-fetch-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add data/matches.json
+          git add data/matches.json public/matches.json
           if git diff --cached --quiet; then
             echo "Veri değişmedi — commit yok"
           else
