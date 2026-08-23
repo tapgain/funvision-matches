@@ -9,132 +9,6 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:481420",
-      "homeTeam": "Brooklyn",
-      "awayTeam": "Pittsburgh RH",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481421",
-      "homeTeam": "Detroit",
-      "awayTeam": "Tampa Bay Rowdies",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481422",
-      "homeTeam": "Indy Eleven",
-      "awayTeam": "Louisville City",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481423",
-      "homeTeam": "Lexington",
-      "awayTeam": "Las Vegas Lights",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481424",
-      "homeTeam": "Loudoun United",
-      "awayTeam": "New Mexico",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481425",
-      "homeTeam": "Charleston",
-      "awayTeam": "Miami FC",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481426",
-      "homeTeam": "Rhode Island",
-      "awayTeam": "Monterrey Bay",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-22T23:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485354",
-      "homeTeam": "Cruzeiro",
-      "awayTeam": "Flamengo",
-      "competition": "Brezilya Serie A",
-      "startsAt": "2026-08-22T23:30:00.000Z",
-      "channelName": "Spor Smart / Smart Spor HD",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481427",
-      "homeTeam": "Birmingham Legion",
-      "awayTeam": "Sporting Jax",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-23T00:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485355",
-      "homeTeam": "Newell's Old Boys",
-      "awayTeam": "Banfield",
-      "competition": "Arjantin Primera Division",
-      "startsAt": "2026-08-23T00:00:00.000Z",
-      "channelName": "Smart Spor 2 / Spor Smart 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481428",
-      "homeTeam": "Colorado Springs",
-      "awayTeam": "El Paso Locomotive",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-23T01:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481429",
-      "homeTeam": "San Antonio",
-      "awayTeam": "Oakland Roots",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-23T01:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481430",
-      "homeTeam": "Orange County",
-      "awayTeam": "FC Tulsa",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-23T02:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481431",
-      "homeTeam": "Sacramento Republic",
-      "awayTeam": "Phoenix Rising",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-23T03:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:484502",
       "homeTeam": "Greuther Fürth",
       "awayTeam": "Bochum",
@@ -396,6 +270,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:485403",
+      "homeTeam": "Palmeiras",
+      "awayTeam": "Vasco Da Gama",
+      "competition": "Brezilya Serie A",
+      "startsAt": "2026-08-23T19:00:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:481204",
       "homeTeam": "Elche",
       "awayTeam": "Barcelona",
@@ -411,6 +294,33 @@
       "competition": "Portekiz Liga NOS",
       "startsAt": "2026-08-23T19:30:00.000Z",
       "channelName": "Bein Sports 4",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:485404",
+      "homeTeam": "Santos",
+      "awayTeam": "Mirassol",
+      "competition": "Brezilya Serie A",
+      "startsAt": "2026-08-23T21:30:00.000Z",
+      "channelName": "Smart Spor 2 / Spor Smart 2",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:485405",
+      "homeTeam": "River Plate",
+      "awayTeam": "Velez Sarsfield",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-08-23T22:15:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:485406",
+      "homeTeam": "Racing Club",
+      "awayTeam": "Boca Juniors",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-08-24T00:30:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
       "isFriendly": false
     },
     {
@@ -1086,6 +996,96 @@
       "competition": "İtalya Serie A",
       "startsAt": "2026-08-29T18:45:00.000Z",
       "channelName": "S Sport 2 / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483098",
+      "homeTeam": "Sevilla",
+      "awayTeam": "Atletico Madrid",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-08-29T19:30:00.000Z",
+      "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:485235",
+      "homeTeam": "Girona",
+      "awayTeam": "Las Palmas",
+      "competition": "İspanya La Liga 2",
+      "startsAt": "2026-08-29T19:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481434",
+      "homeTeam": "Pittsburgh RH",
+      "awayTeam": "Tampa Bay Rowdies",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-29T21:00:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481435",
+      "homeTeam": "Brooklyn",
+      "awayTeam": "Sporting Jax",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-29T23:00:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481436",
+      "homeTeam": "Hartford Athletic",
+      "awayTeam": "Birmingham Legion",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-29T23:00:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481437",
+      "homeTeam": "Lexington",
+      "awayTeam": "Colorado Springs",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-29T23:00:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481438",
+      "homeTeam": "Louisville City",
+      "awayTeam": "Detroit",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-30T00:00:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481439",
+      "homeTeam": "Oakland Roots",
+      "awayTeam": "Orange County",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-30T00:00:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481440",
+      "homeTeam": "FC Tulsa",
+      "awayTeam": "Rhode Island",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-30T00:30:00.000Z",
+      "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:481441",
+      "homeTeam": "El Paso Locomotive",
+      "awayTeam": "Loudoun United",
+      "competition": "ABD USL Championship",
+      "startsAt": "2026-08-30T01:00:00.000Z",
+      "channelName": "USL Championship Youtube",
       "isFriendly": false
     }
   ]
