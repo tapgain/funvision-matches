@@ -9,15 +9,6 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:485406",
-      "homeTeam": "Racing Club",
-      "awayTeam": "Boca Juniors",
-      "competition": "Arjantin Primera Division",
-      "startsAt": "2026-08-24T00:30:00.000Z",
-      "channelName": "Spor Smart / Smart Spor HD",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:484512",
       "homeTeam": "Wurzburger Kickers",
       "awayTeam": "Köln",
@@ -104,7 +95,7 @@
       "awayTeam": "Chelsea",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-24T19:00:00.000Z",
-      "channelName": "Bein Sports 3",
+      "channelName": "Bein Sports 3 / Idman TV",
       "isFriendly": false
     },
     {
@@ -240,6 +231,15 @@
       "competition": "ABD USL Championship",
       "startsAt": "2026-08-27T01:30:00.000Z",
       "channelName": "USL Championship Youtube",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:485630",
+      "homeTeam": "Karabağ",
+      "awayTeam": "Twente",
+      "competition": "UEFA Avrupa Konferans Ligi Play-Off",
+      "startsAt": "2026-08-27T16:00:00.000Z",
+      "channelName": "CBC Sport",
       "isFriendly": false
     },
     {
