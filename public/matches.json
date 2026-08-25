@@ -9,123 +9,6 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:484512",
-      "homeTeam": "Wurzburger Kickers",
-      "awayTeam": "Köln",
-      "competition": "Almanya Kupasi DFB Pokal",
-      "startsAt": "2026-08-24T16:00:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480194",
-      "homeTeam": "Bologna",
-      "awayTeam": "Lazio",
-      "competition": "İtalya Serie A",
-      "startsAt": "2026-08-24T16:30:00.000Z",
-      "channelName": "S Sport 2 / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481205",
-      "homeTeam": "Osasuna",
-      "awayTeam": "Levante",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-24T17:30:00.000Z",
-      "channelName": "S Sport / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:484513",
-      "homeTeam": "Al Ittihad",
-      "awayTeam": "Al Hazem",
-      "competition": "Suudi Arabistan Pro Lig",
-      "startsAt": "2026-08-24T18:00:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482769",
-      "homeTeam": "Sivasspor",
-      "awayTeam": "Manisa FK",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-08-24T18:30:00.000Z",
-      "channelName": "TRT Spor / Bein Sports 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483927",
-      "homeTeam": "Kocaelispor",
-      "awayTeam": "Amedspor",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-24T18:30:00.000Z",
-      "channelName": "Bein Sports 1",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480195",
-      "homeTeam": "Roma",
-      "awayTeam": "Fiorentina",
-      "competition": "İtalya Serie A",
-      "startsAt": "2026-08-24T18:45:00.000Z",
-      "channelName": "S Sport 2 / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:484514",
-      "homeTeam": "Hallescher",
-      "awayTeam": "Schalke 04",
-      "competition": "Almanya Kupasi DFB Pokal",
-      "startsAt": "2026-08-24T18:45:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485272",
-      "homeTeam": "Reims",
-      "awayTeam": "Annecy",
-      "competition": "Fransa Ligue 2",
-      "startsAt": "2026-08-24T18:45:00.000Z",
-      "channelName": "Bein Sports 4",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480185",
-      "homeTeam": "Fulham",
-      "awayTeam": "Chelsea",
-      "competition": "İngiltere Premier Lig",
-      "startsAt": "2026-08-24T19:00:00.000Z",
-      "channelName": "Bein Sports 3 / Idman TV",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485584",
-      "homeTeam": "Türkiye",
-      "awayTeam": "Kuzey Makedonya",
-      "competition": "Akdeniz Oyunlari",
-      "startsAt": "2026-08-24T19:00:00.000Z",
-      "channelName": "tabii Spor 7",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481206",
-      "homeTeam": "Malaga",
-      "awayTeam": "Deportivo",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-24T19:30:00.000Z",
-      "channelName": "S Sport / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:484803",
-      "homeTeam": "Granada",
-      "awayTeam": "Mallorca",
-      "competition": "İspanya La Liga 2",
-      "startsAt": "2026-08-24T19:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:485293",
       "homeTeam": "Sabah Bakü",
       "awayTeam": "Hapoel Beer Sheva",
@@ -167,7 +50,7 @@
       "awayTeam": "Celtic",
       "competition": "UEFA Şampiyonlar Ligi Play-Off",
       "startsAt": "2026-08-25T19:00:00.000Z",
-      "channelName": "tabii Spor",
+      "channelName": "CBC Sport / tabii Spor 1",
       "isFriendly": false
     },
     {
@@ -185,7 +68,7 @@
       "awayTeam": "Fenerbahçe",
       "competition": "UEFA Şampiyonlar Ligi Play-Off",
       "startsAt": "2026-08-26T19:00:00.000Z",
-      "channelName": "TRT 1",
+      "channelName": "TRT 1 / CBC Sport",
       "isFriendly": false
     },
     {
@@ -1077,6 +960,69 @@
       "competition": "İspanya La Liga",
       "startsAt": "2026-08-30T19:30:00.000Z",
       "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483551",
+      "homeTeam": "Lecce",
+      "awayTeam": "Roma",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-08-31T16:30:00.000Z",
+      "channelName": "S Sport 2 / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483102",
+      "homeTeam": "Osasuna",
+      "awayTeam": "Getafe",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-08-31T17:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483935",
+      "homeTeam": "Amedspor",
+      "awayTeam": "Trabzonspor",
+      "competition": "Trendyol Süper Lig",
+      "startsAt": "2026-08-31T18:30:00.000Z",
+      "channelName": "Bein Sports 2",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483936",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "Çorum FK",
+      "competition": "Trendyol Süper Lig",
+      "startsAt": "2026-08-31T18:30:00.000Z",
+      "channelName": "Bein Sports 1",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483552",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Bologna",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-08-31T18:45:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483592",
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Arsenal",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-08-31T19:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483103",
+      "homeTeam": "Barcelona",
+      "awayTeam": "Rayo Vallecano",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-08-31T19:30:00.000Z",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     }
   ]
