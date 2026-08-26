@@ -9,6 +9,15 @@
   "lookAheadHours": 168,
   "matches": [
     {
+      "id": "yayin:485895",
+      "homeTeam": "Türkiye",
+      "awayTeam": "Tunus",
+      "competition": "Akdeniz Oyunlari Erkekler",
+      "startsAt": "2026-08-26T08:30:00.000Z",
+      "channelName": "tabii Spor 6",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:483092",
       "homeTeam": "Real Madrid",
       "awayTeam": "Real Sociedad",
