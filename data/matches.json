@@ -9,78 +9,6 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:485895",
-      "homeTeam": "Türkiye",
-      "awayTeam": "Tunus",
-      "competition": "Akdeniz Oyunlari Erkekler",
-      "startsAt": "2026-08-26T08:30:00.000Z",
-      "channelName": "tabii Spor 6",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483092",
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Real Sociedad",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-26T19:00:00.000Z",
-      "channelName": "S Sport / Idman TV / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:484412",
-      "homeTeam": "Lyon",
-      "awayTeam": "Fenerbahçe",
-      "competition": "UEFA Şampiyonlar Ligi Play-Off",
-      "startsAt": "2026-08-26T19:00:00.000Z",
-      "channelName": "TRT 1 / CBC Sport",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485296",
-      "homeTeam": "AEK",
-      "awayTeam": "Levski Sofya",
-      "competition": "UEFA Şampiyonlar Ligi Play-Off",
-      "startsAt": "2026-08-26T19:00:00.000Z",
-      "channelName": "tabii Spor",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485297",
-      "homeTeam": "NK Celje",
-      "awayTeam": "Slovan Bratislava",
-      "competition": "UEFA Şampiyonlar Ligi Play-Off",
-      "startsAt": "2026-08-26T19:00:00.000Z",
-      "channelName": "tabii Spor",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485298",
-      "homeTeam": "Viking",
-      "awayTeam": "Dinamo Zagreb",
-      "competition": "UEFA Şampiyonlar Ligi Play-Off",
-      "startsAt": "2026-08-26T19:00:00.000Z",
-      "channelName": "tabii Spor",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481432",
-      "homeTeam": "El Paso Locomotive",
-      "awayTeam": "Pittsburgh RH",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-27T01:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481433",
-      "homeTeam": "New Mexico",
-      "awayTeam": "Lexington",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-27T01:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:485630",
       "homeTeam": "Karabağ",
       "awayTeam": "Twente",
@@ -176,7 +104,7 @@
       "awayTeam": "Al Hilal",
       "competition": "Suudi Arabistan Pro Lig",
       "startsAt": "2026-08-28T18:00:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "HT Spor / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -284,7 +212,16 @@
       "awayTeam": "Nottingham Forest",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T11:30:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Idman TV / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486048",
+      "homeTeam": "Ünye 1957",
+      "awayTeam": "Beşiktaş",
+      "competition": "Suwen Kadinlar Futbol Ligi",
+      "startsAt": "2026-08-29T13:00:00.000Z",
+      "channelName": "TFF Youtube",
       "isFriendly": false
     },
     {
@@ -329,7 +266,7 @@
       "awayTeam": "Eintracht Frankfurt",
       "competition": "Almanya Bundesliga",
       "startsAt": "2026-08-29T13:30:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "Idman TV / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -348,6 +285,15 @@
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T14:00:00.000Z",
       "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486049",
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Trabzonspor",
+      "competition": "Suwen Kadinlar Futbol Ligi",
+      "startsAt": "2026-08-29T14:00:00.000Z",
+      "channelName": "TFF Youtube",
       "isFriendly": false
     },
     {
@@ -410,7 +356,7 @@
       "awayTeam": "Al Ahli",
       "competition": "Suudi Arabistan Pro Lig",
       "startsAt": "2026-08-29T16:05:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "HT Spor / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -455,8 +401,17 @@
       "awayTeam": "Newcastle",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Idman TV / Bein Sports beIN Connect",
       "isFriendly": false
+    },
+    {
+      "id": "yayin:486051",
+      "homeTeam": "Eskişehirspor",
+      "awayTeam": "İnegölspor",
+      "competition": "Hazirlik",
+      "startsAt": "2026-08-29T16:30:00.000Z",
+      "channelName": "İstikbal TV YouTube",
+      "isFriendly": true
     },
     {
       "id": "yayin:483097",
@@ -783,6 +738,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486050",
+      "homeTeam": "Fenerbahçe",
+      "awayTeam": "Fomget Gençlik",
+      "competition": "Suwen Kadinlar Futbol Ligi",
+      "startsAt": "2026-08-30T14:00:00.000Z",
+      "channelName": "TFF Youtube",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:485213",
       "homeTeam": "SC Telstar",
       "awayTeam": "Ajax",
@@ -861,6 +825,15 @@
       "competition": "İspanya La Liga",
       "startsAt": "2026-08-30T17:30:00.000Z",
       "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486056",
+      "homeTeam": "Al Qadsiah",
+      "awayTeam": "Al Faysaly",
+      "competition": "Suudi Arabistan Pro Lig",
+      "startsAt": "2026-08-30T18:00:00.000Z",
+      "channelName": "HT Spor",
       "isFriendly": false
     },
     {
@@ -1022,6 +995,78 @@
       "awayTeam": "Keçiörengücü",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-09-01T17:00:00.000Z",
+      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486066",
+      "homeTeam": "Al Hilal",
+      "awayTeam": "Al Ahli",
+      "competition": "Suudi Arabistan Pro Lig",
+      "startsAt": "2026-09-01T18:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486067",
+      "homeTeam": "HEBC Hamburg",
+      "awayTeam": "Borussia Dortmund",
+      "competition": "Almanya Kupasi DFB Pokal",
+      "startsAt": "2026-09-01T18:45:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:482784",
+      "homeTeam": "Vanspor",
+      "awayTeam": "Batman Petrol",
+      "competition": "Trendyol 1. Lig",
+      "startsAt": "2026-09-02T14:00:00.000Z",
+      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:482785",
+      "homeTeam": "Karagümrük",
+      "awayTeam": "Kayserispor",
+      "competition": "Trendyol 1. Lig",
+      "startsAt": "2026-09-02T17:00:00.000Z",
+      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:482786",
+      "homeTeam": "Sivasspor",
+      "awayTeam": "Mardin 1969",
+      "competition": "Trendyol 1. Lig",
+      "startsAt": "2026-09-02T17:00:00.000Z",
+      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486068",
+      "homeTeam": "Osnabruck",
+      "awayTeam": "Bayern Münih",
+      "competition": "Almanya Kupasi DFB Pokal",
+      "startsAt": "2026-09-02T18:45:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486069",
+      "homeTeam": "Falkirk",
+      "awayTeam": "Glasgow Rangers",
+      "competition": "İskoçya Premier Lig",
+      "startsAt": "2026-09-02T19:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:482787",
+      "homeTeam": "Iğdırspor",
+      "awayTeam": "Manisa FK",
+      "competition": "Trendyol 1. Lig",
+      "startsAt": "2026-09-03T14:00:00.000Z",
       "channelName": "TRT Spor / Bein Sports beIN Connect",
       "isFriendly": false
     }
