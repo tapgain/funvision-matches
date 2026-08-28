@@ -9,57 +9,12 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:485630",
-      "homeTeam": "Karabağ",
-      "awayTeam": "Twente",
-      "competition": "UEFA Avrupa Konferans Ligi Play-Off",
-      "startsAt": "2026-08-27T16:00:00.000Z",
-      "channelName": "CBC Sport",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:484617",
-      "homeTeam": "Kauno Zalgiris",
-      "awayTeam": "Beşiktaş",
-      "competition": "UEFA Avrupa Ligi Play-Off",
-      "startsAt": "2026-08-27T17:00:00.000Z",
-      "channelName": "TV100 / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:484915",
-      "homeTeam": "Ferencvaros",
-      "awayTeam": "Trabzonspor",
-      "competition": "UEFA Avrupa Ligi Play-Off",
-      "startsAt": "2026-08-27T18:30:00.000Z",
-      "channelName": "ATV",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485587",
-      "homeTeam": "Celta Vigo",
-      "awayTeam": "Osasuna",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-27T18:30:00.000Z",
-      "channelName": "S Sport 2 / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483093",
-      "homeTeam": "Barcelona",
-      "awayTeam": "Athletic Bilbao",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-27T19:00:00.000Z",
-      "channelName": "S Sport / Idman TV / S Sport Plus",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:482770",
       "homeTeam": "Keçiörengücü",
       "awayTeam": "Ümraniyespor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-28T16:00:00.000Z",
-      "channelName": "tabii Spor / Bein Sports beIN Connect",
+      "channelName": "Bein Sports Max 1 / tabii Spor 6",
       "isFriendly": false
     },
     {
@@ -68,7 +23,7 @@
       "awayTeam": "Bandırmaspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-28T16:00:00.000Z",
-      "channelName": "tabii Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Türk / Bein Sports 2",
       "isFriendly": false
     },
     {
@@ -122,7 +77,7 @@
       "awayTeam": "Sarıyer",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-28T18:30:00.000Z",
-      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Spor / Bein Sports 2",
       "isFriendly": false
     },
     {
@@ -131,7 +86,7 @@
       "awayTeam": "Boluspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-28T18:30:00.000Z",
-      "channelName": "tabii Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Türk / Bein Sports Max 1",
       "isFriendly": false
     },
     {
@@ -149,7 +104,7 @@
       "awayTeam": "PSG",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-28T18:45:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 4",
       "isFriendly": false
     },
     {
@@ -167,7 +122,16 @@
       "awayTeam": "Manchester City",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-28T19:00:00.000Z",
-      "channelName": "AzTV / Bein Sports beIN Connect",
+      "channelName": "AzTV / Bein Sports 3",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486163",
+      "homeTeam": "Rio Ave",
+      "awayTeam": "Sporting Lisbon",
+      "competition": "Portekiz Liga NOS",
+      "startsAt": "2026-08-28T19:15:00.000Z",
+      "channelName": "Bein Sports 5",
       "isFriendly": false
     },
     {
@@ -177,6 +141,15 @@
       "competition": "İspanya La Liga",
       "startsAt": "2026-08-28T19:30:00.000Z",
       "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486145",
+      "homeTeam": "Boca Juniors",
+      "awayTeam": "Lanus",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-08-29T00:30:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
       "isFriendly": false
     },
     {
@@ -212,7 +185,7 @@
       "awayTeam": "Nottingham Forest",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T11:30:00.000Z",
-      "channelName": "Idman TV / Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3 / Idman TV",
       "isFriendly": false
     },
     {
@@ -275,7 +248,7 @@
       "awayTeam": "Everton",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T14:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 4",
       "isFriendly": false
     },
     {
@@ -284,7 +257,7 @@
       "awayTeam": "Hull City",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T14:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3",
       "isFriendly": false
     },
     {
@@ -320,7 +293,7 @@
       "awayTeam": "Lens",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-29T15:15:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 5",
       "isFriendly": false
     },
     {
@@ -329,7 +302,7 @@
       "awayTeam": "Bursaspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-29T16:00:00.000Z",
-      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Spor / beIN Sports Haber",
       "isFriendly": false
     },
     {
@@ -338,7 +311,7 @@
       "awayTeam": "Karagümrük",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-29T16:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect / tabii Spor 6",
+      "channelName": "Bein Sports 2 / tabii Spor 6",
       "isFriendly": false
     },
     {
@@ -401,7 +374,7 @@
       "awayTeam": "Newcastle",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "Idman TV / Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3 / Idman TV",
       "isFriendly": false
     },
     {
@@ -423,6 +396,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486164",
+      "homeTeam": "Academico Viseu",
+      "awayTeam": "Porto",
+      "competition": "Portekiz Liga NOS",
+      "startsAt": "2026-08-29T17:00:00.000Z",
+      "channelName": "Bein Sports 4",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:481657",
       "homeTeam": "Nürnberg",
       "awayTeam": "Arminia Bielefeld",
@@ -437,7 +419,7 @@
       "awayTeam": "Sivasspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Spor / Bein Sports Max 2",
       "isFriendly": false
     },
     {
@@ -446,7 +428,7 @@
       "awayTeam": "Vanspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "Bein Sports beIN Connect / tabii Spor 6",
+      "channelName": "Bein Sports Max 1 / tabii Spor 6",
       "isFriendly": false
     },
     {
@@ -473,7 +455,7 @@
       "awayTeam": "Angers",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 5",
       "isFriendly": false
     },
     {
@@ -500,7 +482,7 @@
       "awayTeam": "Le Havre",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3",
       "isFriendly": false
     },
     {
@@ -518,7 +500,7 @@
       "awayTeam": "Atletico Madrid",
       "competition": "İspanya La Liga",
       "startsAt": "2026-08-29T19:30:00.000Z",
-      "channelName": "S Sport / S Sport Plus",
+      "channelName": "S Sport / Idman TV / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -698,7 +680,7 @@
       "awayTeam": "Nice",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-30T13:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 5",
       "isFriendly": false
     },
     {
@@ -707,7 +689,7 @@
       "awayTeam": "Brighton",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-30T13:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3",
       "isFriendly": false
     },
     {
@@ -716,7 +698,7 @@
       "awayTeam": "Brentford",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-30T13:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 2",
       "isFriendly": false
     },
     {
@@ -725,7 +707,7 @@
       "awayTeam": "Fulham",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-30T13:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 4",
       "isFriendly": false
     },
     {
@@ -770,7 +752,7 @@
       "awayTeam": "Le Mans",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-30T15:15:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 4",
       "isFriendly": false
     },
     {
@@ -788,7 +770,7 @@
       "awayTeam": "Ipswich Town",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-30T15:30:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3",
       "isFriendly": false
     },
     {
@@ -797,7 +779,7 @@
       "awayTeam": "Iğdırspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-30T16:00:00.000Z",
-      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Spor / Bein Sports 2",
       "isFriendly": false
     },
     {
@@ -842,7 +824,7 @@
       "awayTeam": "Bodrumspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-08-30T18:30:00.000Z",
-      "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "channelName": "TRT Spor / Bein Sports Max 1",
       "isFriendly": false
     },
     {
@@ -869,7 +851,7 @@
       "awayTeam": "Marsilya",
       "competition": "Fransa Ligue 1",
       "startsAt": "2026-08-30T18:45:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 4",
       "isFriendly": false
     },
     {
@@ -923,7 +905,7 @@
       "awayTeam": "Trabzonspor",
       "competition": "Trendyol Süper Lig",
       "startsAt": "2026-08-31T18:30:00.000Z",
-      "channelName": "Bein Sports 2",
+      "channelName": "Bein Sports 1",
       "isFriendly": false
     },
     {
@@ -932,7 +914,7 @@
       "awayTeam": "Çorum FK",
       "competition": "Trendyol Süper Lig",
       "startsAt": "2026-08-31T18:30:00.000Z",
-      "channelName": "Bein Sports 1",
+      "channelName": "Bein Sports 2",
       "isFriendly": false
     },
     {
@@ -950,7 +932,16 @@
       "awayTeam": "Arsenal",
       "competition": "İngiltere Premier Lig",
       "startsAt": "2026-08-31T19:00:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
+      "channelName": "Bein Sports 3 / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486165",
+      "homeTeam": "Benfica",
+      "awayTeam": "Estoril",
+      "competition": "Portekiz Liga NOS",
+      "startsAt": "2026-08-31T19:15:00.000Z",
+      "channelName": "Bein Sports 4",
       "isFriendly": false
     },
     {
@@ -1086,6 +1077,15 @@
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-09-03T17:00:00.000Z",
       "channelName": "TRT Spor / Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483525",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lille",
+      "competition": "Fransa Ligue 1",
+      "startsAt": "2026-09-03T18:45:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
       "isFriendly": false
     }
   ]
