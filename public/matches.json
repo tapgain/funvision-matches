@@ -925,6 +925,78 @@
       "startsAt": "2026-09-05T19:00:00.000Z",
       "channelName": "S Sport Plus",
       "isFriendly": false
+    },
+    {
+      "id": "yayin:483418",
+      "homeTeam": "Greuther Fürth",
+      "awayTeam": "Heidenheim",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-06T11:30:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483419",
+      "homeTeam": "Hertha Berlin",
+      "awayTeam": "Magdeburg",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-06T11:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483420",
+      "homeTeam": "Osnabruck",
+      "awayTeam": "Braunschweig",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-06T11:30:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483531",
+      "homeTeam": "Troyes",
+      "awayTeam": "Strasbourg",
+      "competition": "Fransa Ligue 1",
+      "startsAt": "2026-09-06T13:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483557",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Venezia",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-09-06T13:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483558",
+      "homeTeam": "Parma",
+      "awayTeam": "Monza",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-09-06T13:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483601",
+      "homeTeam": "Everton",
+      "awayTeam": "Manchester Utd",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-06T13:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483382",
+      "homeTeam": "Hamburg",
+      "awayTeam": "Mainz",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-06T13:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
     }
   ]
 }
