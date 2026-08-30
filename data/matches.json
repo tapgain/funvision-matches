@@ -9,510 +9,6 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:481654",
-      "homeTeam": "Energie Cottbus",
-      "awayTeam": "Greuther Fürth",
-      "competition": "Almanya Bundesliga 2",
-      "startsAt": "2026-08-29T11:00:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481655",
-      "homeTeam": "Heidenheim",
-      "awayTeam": "Dynamo Dresden",
-      "competition": "Almanya Bundesliga 2",
-      "startsAt": "2026-08-29T11:00:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481656",
-      "homeTeam": "Karlsruhe",
-      "awayTeam": "Wolfsburg",
-      "competition": "Almanya Bundesliga 2",
-      "startsAt": "2026-08-29T11:00:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483584",
-      "homeTeam": "Liverpool",
-      "awayTeam": "Nottingham Forest",
-      "competition": "İngiltere Premier Lig",
-      "startsAt": "2026-08-29T11:30:00.000Z",
-      "channelName": "Bein Sports 3 / Idman TV",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486193",
-      "homeTeam": "Duisburg",
-      "awayTeam": "Wurzburger Kickers",
-      "competition": "Almanya Bundesliga 3",
-      "startsAt": "2026-08-29T12:00:00.000Z",
-      "channelName": "Sıfır TV",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486048",
-      "homeTeam": "Ünye 1957",
-      "awayTeam": "Beşiktaş",
-      "competition": "Suwen Kadinlar Futbol Ligi",
-      "startsAt": "2026-08-29T13:00:00.000Z",
-      "channelName": "TFF Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481208",
-      "homeTeam": "Elversberg",
-      "awayTeam": "Bayer Leverkusen",
-      "competition": "Almanya Bundesliga",
-      "startsAt": "2026-08-29T13:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481209",
-      "homeTeam": "Köln",
-      "awayTeam": "Hoffenheim",
-      "competition": "Almanya Bundesliga",
-      "startsAt": "2026-08-29T13:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481210",
-      "homeTeam": "Mainz",
-      "awayTeam": "Paderborn",
-      "competition": "Almanya Bundesliga",
-      "startsAt": "2026-08-29T13:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481211",
-      "homeTeam": "Leipzig",
-      "awayTeam": "Monchengladbach",
-      "competition": "Almanya Bundesliga",
-      "startsAt": "2026-08-29T13:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481212",
-      "homeTeam": "Union Berlin",
-      "awayTeam": "Eintracht Frankfurt",
-      "competition": "Almanya Bundesliga",
-      "startsAt": "2026-08-29T13:30:00.000Z",
-      "channelName": "Idman TV / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483585",
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Everton",
-      "competition": "İngiltere Premier Lig",
-      "startsAt": "2026-08-29T14:00:00.000Z",
-      "channelName": "Bein Sports 4",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483586",
-      "homeTeam": "Coventry",
-      "awayTeam": "Hull City",
-      "competition": "İngiltere Premier Lig",
-      "startsAt": "2026-08-29T14:00:00.000Z",
-      "channelName": "Bein Sports 3",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486049",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "Trabzonspor",
-      "competition": "Suwen Kadinlar Futbol Ligi",
-      "startsAt": "2026-08-29T14:00:00.000Z",
-      "channelName": "TFF Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486194",
-      "homeTeam": "Hoffenheim",
-      "awayTeam": "Jahn Regensburg",
-      "competition": "Almanya Bundesliga 3",
-      "startsAt": "2026-08-29T14:30:00.000Z",
-      "channelName": "Sıfır TV",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481651",
-      "homeTeam": "Shakhtar Donetsk",
-      "awayTeam": "Polissya Zhytomyr",
-      "competition": "Ukrayna Premier Ligi",
-      "startsAt": "2026-08-29T15:00:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483096",
-      "homeTeam": "Levante",
-      "awayTeam": "Real Betis",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-29T15:00:00.000Z",
-      "channelName": "S Sport / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480815",
-      "homeTeam": "Strasbourg",
-      "awayTeam": "Lens",
-      "competition": "Fransa Ligue 1",
-      "startsAt": "2026-08-29T15:15:00.000Z",
-      "channelName": "Bein Sports 5",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482774",
-      "homeTeam": "Kayserispor",
-      "awayTeam": "Bursaspor",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-08-29T16:00:00.000Z",
-      "channelName": "TRT Spor / beIN Sports Haber",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482775",
-      "homeTeam": "İstanbulspor",
-      "awayTeam": "Karagümrük",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-08-29T16:00:00.000Z",
-      "channelName": "Bein Sports 2 / tabii Spor 6",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483929",
-      "homeTeam": "Konyaspor",
-      "awayTeam": "Kocaelispor",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-29T16:00:00.000Z",
-      "channelName": "Bein Sports 1",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485205",
-      "homeTeam": "Al Kholood",
-      "awayTeam": "Al Ahli",
-      "competition": "Suudi Arabistan Pro Lig",
-      "startsAt": "2026-08-29T16:05:00.000Z",
-      "channelName": "HT Spor / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481213",
-      "homeTeam": "Borussia Dortmund",
-      "awayTeam": "Hamburg",
-      "competition": "Almanya Bundesliga",
-      "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483544",
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Frosinone",
-      "competition": "İtalya Serie A",
-      "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "S Sport 2 / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483545",
-      "homeTeam": "Monza",
-      "awayTeam": "Udinese",
-      "competition": "İtalya Serie A",
-      "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483546",
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Torino",
-      "competition": "İtalya Serie A",
-      "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483587",
-      "homeTeam": "Tottenham",
-      "awayTeam": "Newcastle",
-      "competition": "İngiltere Premier Lig",
-      "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "Bein Sports 3 / Idman TV",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486051",
-      "homeTeam": "Eskişehirspor",
-      "awayTeam": "İnegölspor",
-      "competition": "Hazirlik",
-      "startsAt": "2026-08-29T16:30:00.000Z",
-      "channelName": "İstikbal TV YouTube",
-      "isFriendly": true
-    },
-    {
-      "id": "yayin:483097",
-      "homeTeam": "Real Sociedad",
-      "awayTeam": "Espanyol",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-29T17:00:00.000Z",
-      "channelName": "S Sport / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486164",
-      "homeTeam": "Academico Viseu",
-      "awayTeam": "Porto",
-      "competition": "Portekiz Liga NOS",
-      "startsAt": "2026-08-29T17:00:00.000Z",
-      "channelName": "Bein Sports 4",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486268",
-      "homeTeam": "Elazığspor",
-      "awayTeam": "Yeşilyurt Bld.",
-      "competition": "Hazirlik",
-      "startsAt": "2026-08-29T17:00:00.000Z",
-      "channelName": "Elazığspor Youtube",
-      "isFriendly": true
-    },
-    {
-      "id": "yayin:481657",
-      "homeTeam": "Nürnberg",
-      "awayTeam": "Arminia Bielefeld",
-      "competition": "Almanya Bundesliga 2",
-      "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482776",
-      "homeTeam": "Batman Petrol",
-      "awayTeam": "Sivasspor",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "TRT Spor / Bein Sports Max 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482777",
-      "homeTeam": "Mardin 1969",
-      "awayTeam": "Vanspor",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "TRT Kurdi / Bein Sports Max 1 / tabii Spor 6",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483930",
-      "homeTeam": "Gaziantep FK",
-      "awayTeam": "Ç.Rizespor",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "Bein Sports 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483931",
-      "homeTeam": "Galatasaray",
-      "awayTeam": "Göztepe",
-      "competition": "Trendyol Süper Lig",
-      "startsAt": "2026-08-29T18:30:00.000Z",
-      "channelName": "Bein Sports 1",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480816",
-      "homeTeam": "Auxerre",
-      "awayTeam": "Angers",
-      "competition": "Fransa Ligue 1",
-      "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "Bein Sports 5",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480817",
-      "homeTeam": "Brest",
-      "awayTeam": "Toulouse",
-      "competition": "Fransa Ligue 1",
-      "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480818",
-      "homeTeam": "Lorient",
-      "awayTeam": "Troyes",
-      "competition": "Fransa Ligue 1",
-      "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "Bein Sports beIN Connect",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:480819",
-      "homeTeam": "Lyon",
-      "awayTeam": "Le Havre",
-      "competition": "Fransa Ligue 1",
-      "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "Bein Sports 3",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483547",
-      "homeTeam": "Juventus",
-      "awayTeam": "Parma",
-      "competition": "İtalya Serie A",
-      "startsAt": "2026-08-29T18:45:00.000Z",
-      "channelName": "S Sport 2 / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:483098",
-      "homeTeam": "Sevilla",
-      "awayTeam": "Atletico Madrid",
-      "competition": "İspanya La Liga",
-      "startsAt": "2026-08-29T19:30:00.000Z",
-      "channelName": "S Sport / Idman TV / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:485235",
-      "homeTeam": "Girona",
-      "awayTeam": "Las Palmas",
-      "competition": "İspanya La Liga 2",
-      "startsAt": "2026-08-29T19:30:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481434",
-      "homeTeam": "Pittsburgh RH",
-      "awayTeam": "Tampa Bay Rowdies",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-29T21:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481435",
-      "homeTeam": "Brooklyn",
-      "awayTeam": "Sporting Jax",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-29T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481436",
-      "homeTeam": "Hartford Athletic",
-      "awayTeam": "Birmingham Legion",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-29T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481437",
-      "homeTeam": "Lexington",
-      "awayTeam": "Colorado Springs",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-29T23:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481438",
-      "homeTeam": "Louisville City",
-      "awayTeam": "Detroit",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T00:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481439",
-      "homeTeam": "Oakland Roots",
-      "awayTeam": "Orange County",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T00:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486212",
-      "homeTeam": "Vasco Da Gama",
-      "awayTeam": "Cruzeiro",
-      "competition": "Brezilya Serie A",
-      "startsAt": "2026-08-30T00:20:00.000Z",
-      "channelName": "Spor Smart / Smart Spor HD",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481440",
-      "homeTeam": "FC Tulsa",
-      "awayTeam": "Rhode Island",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T00:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481441",
-      "homeTeam": "El Paso Locomotive",
-      "awayTeam": "Loudoun United",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T01:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481442",
-      "homeTeam": "New Mexico",
-      "awayTeam": "San Antonio",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T01:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481443",
-      "homeTeam": "Monterrey Bay",
-      "awayTeam": "Sacramento Republic",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T02:00:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481444",
-      "homeTeam": "Las Vegas Lights",
-      "awayTeam": "Charleston",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T02:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:481445",
-      "homeTeam": "Phoenix Rising",
-      "awayTeam": "Indy Eleven",
-      "competition": "ABD USL Championship",
-      "startsAt": "2026-08-30T02:30:00.000Z",
-      "channelName": "USL Championship Youtube",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:485208",
       "homeTeam": "Utrecht",
       "awayTeam": "PSV",
@@ -630,6 +126,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486313",
+      "homeTeam": "Atletico PR",
+      "awayTeam": "Fluminense",
+      "competition": "Brezilya Serie A",
+      "startsAt": "2026-08-30T14:00:00.000Z",
+      "channelName": "Smart Spor 2 / Spor Smart 2",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:486196",
       "homeTeam": "Viktoria Köln",
       "awayTeam": "Munster",
@@ -729,6 +234,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486310",
+      "homeTeam": "Banfield",
+      "awayTeam": "River Plate",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-08-30T18:00:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:482779",
       "homeTeam": "Manisa FK",
       "awayTeam": "Bodrumspor",
@@ -783,12 +297,48 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486291",
+      "homeTeam": "Pisa",
+      "awayTeam": "Catanzaro",
+      "competition": "İtalya Serie B",
+      "startsAt": "2026-08-30T19:00:00.000Z",
+      "channelName": "Sıfır TV",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:483101",
       "homeTeam": "Celta Vigo",
       "awayTeam": "Athletic Bilbao",
       "competition": "İspanya La Liga",
       "startsAt": "2026-08-30T19:30:00.000Z",
       "channelName": "S Sport / Idman TV / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486311",
+      "homeTeam": "CA Independiente",
+      "awayTeam": "Gimnasia Mendoza",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-08-30T22:15:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486314",
+      "homeTeam": "Bahia",
+      "awayTeam": "Internacional",
+      "competition": "Brezilya Serie A",
+      "startsAt": "2026-08-30T22:30:00.000Z",
+      "channelName": "Smart Spor 2 / Spor Smart 2",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486312",
+      "homeTeam": "Independiente Rivadavia",
+      "awayTeam": "Racing Club",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-08-31T00:30:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
       "isFriendly": false
     },
     {
@@ -1085,6 +635,294 @@
       "awayTeam": "Como",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-04T18:45:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483593",
+      "homeTeam": "Ipswich Town",
+      "awayTeam": "Liverpool",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-04T19:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:484376",
+      "homeTeam": "Real Betis",
+      "awayTeam": "Real Madrid",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-09-04T19:00:00.000Z",
+      "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483414",
+      "homeTeam": "Kaiserslautern",
+      "awayTeam": "Darmstadt 98",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-05T11:00:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483415",
+      "homeTeam": "Holstein Kiel",
+      "awayTeam": "Nürnberg",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-05T11:00:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483416",
+      "homeTeam": "Wolfsburg",
+      "awayTeam": "Energie Cottbus",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-05T11:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483594",
+      "homeTeam": "Newcastle",
+      "awayTeam": "Bournemouth",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T11:30:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483554",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Torino",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-09-05T13:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483376",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Leipzig",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-05T13:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483377",
+      "homeTeam": "Hoffenheim",
+      "awayTeam": "Borussia Dortmund",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-05T13:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483378",
+      "homeTeam": "Bayer Leverkusen",
+      "awayTeam": "Union Berlin",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-05T13:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483379",
+      "homeTeam": "Monchengladbach",
+      "awayTeam": "Elversberg",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-05T13:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483380",
+      "homeTeam": "Paderborn",
+      "awayTeam": "Freiburg",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-05T13:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483595",
+      "homeTeam": "Brentford",
+      "awayTeam": "Sunderland",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T14:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483596",
+      "homeTeam": "Brighton",
+      "awayTeam": "Leeds United",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T14:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483597",
+      "homeTeam": "Fulham",
+      "awayTeam": "Crystal Palace",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T14:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483598",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Coventry",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T14:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483599",
+      "homeTeam": "Nottingham Forest",
+      "awayTeam": "Tottenham",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T14:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:484377",
+      "homeTeam": "Athletic Bilbao",
+      "awayTeam": "Atletico Madrid",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-09-05T14:15:00.000Z",
+      "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483527",
+      "homeTeam": "Lyon",
+      "awayTeam": "Auxerre",
+      "competition": "Fransa Ligue 1",
+      "startsAt": "2026-09-05T15:00:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483528",
+      "homeTeam": "Lens",
+      "awayTeam": "Lorient",
+      "competition": "Fransa Ligue 1",
+      "startsAt": "2026-09-05T15:15:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483555",
+      "homeTeam": "Inter",
+      "awayTeam": "Napoli",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-09-05T16:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483381",
+      "homeTeam": "Schalke 04",
+      "awayTeam": "Bayern Münih",
+      "competition": "Almanya Bundesliga",
+      "startsAt": "2026-09-05T16:30:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483600",
+      "homeTeam": "Hull City",
+      "awayTeam": "Aston Villa",
+      "competition": "İngiltere Premier Lig",
+      "startsAt": "2026-09-05T16:30:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:484378",
+      "homeTeam": "Rayo Vallecano",
+      "awayTeam": "Racing Santander",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-09-05T16:30:00.000Z",
+      "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486078",
+      "homeTeam": "Al Ittihad",
+      "awayTeam": "Al Nassr",
+      "competition": "Suudi Arabistan Pro Lig",
+      "startsAt": "2026-09-05T18:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486079",
+      "homeTeam": "Ajax",
+      "awayTeam": "PSV",
+      "competition": "Hollanda Eredivisie",
+      "startsAt": "2026-09-05T18:00:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483417",
+      "homeTeam": "Dynamo Dresden",
+      "awayTeam": "Bochum",
+      "competition": "Almanya Bundesliga 2",
+      "startsAt": "2026-09-05T18:30:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483529",
+      "homeTeam": "Le Havre",
+      "awayTeam": "Brest",
+      "competition": "Fransa Ligue 1",
+      "startsAt": "2026-09-05T18:45:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483530",
+      "homeTeam": "Nice",
+      "awayTeam": "Le Mans",
+      "competition": "Fransa Ligue 1",
+      "startsAt": "2026-09-05T18:45:00.000Z",
+      "channelName": "Bein Sports beIN Connect",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483556",
+      "homeTeam": "Roma",
+      "awayTeam": "Atalanta",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-09-05T18:45:00.000Z",
+      "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:484379",
+      "homeTeam": "Villarreal",
+      "awayTeam": "Deportivo",
+      "competition": "İspanya La Liga",
+      "startsAt": "2026-09-05T19:00:00.000Z",
+      "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486080",
+      "homeTeam": "St.Mirren",
+      "awayTeam": "Celtic",
+      "competition": "İskoçya Premier Lig",
+      "startsAt": "2026-09-05T19:00:00.000Z",
       "channelName": "S Sport Plus",
       "isFriendly": false
     }
