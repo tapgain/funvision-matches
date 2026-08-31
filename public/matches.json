@@ -9,6 +9,15 @@
   "lookAheadHours": 168,
   "matches": [
     {
+      "id": "yayin:486541",
+      "homeTeam": "Araz",
+      "awayTeam": "Sabah Bakü",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-08-31T14:00:00.000Z",
+      "channelName": "CBC Sport",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:486271",
       "homeTeam": "Sumqayıt",
       "awayTeam": "Karabağ",
@@ -284,7 +293,7 @@
       "awayTeam": "Karlsruhe",
       "competition": "Almanya Bundesliga 2",
       "startsAt": "2026-09-04T18:30:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "",
       "isFriendly": false
     },
     {
@@ -374,7 +383,7 @@
       "awayTeam": "Torino",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-05T13:00:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -509,7 +518,7 @@
       "awayTeam": "Napoli",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-05T16:00:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -590,7 +599,7 @@
       "awayTeam": "Atalanta",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-05T18:45:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -662,7 +671,7 @@
       "awayTeam": "Monza",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-06T13:00:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -761,7 +770,7 @@
       "awayTeam": "Sassuolo",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-06T16:00:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -824,7 +833,7 @@
       "awayTeam": "Levante",
       "competition": "İspanya La Liga",
       "startsAt": "2026-09-06T16:30:00.000Z",
-      "channelName": "S Sport / S Sport Plus",
+      "channelName": "S Sport Plus",
       "isFriendly": false
     },
     {
@@ -842,7 +851,7 @@
       "awayTeam": "Milan",
       "competition": "İtalya Serie A",
       "startsAt": "2026-09-06T18:45:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     },
     {
@@ -860,7 +869,16 @@
       "awayTeam": "Cadiz",
       "competition": "İspanya La Liga 2",
       "startsAt": "2026-09-06T19:00:00.000Z",
-      "channelName": "S Sport Plus",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:483561",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Lecce",
+      "competition": "İtalya Serie A",
+      "startsAt": "2026-09-07T16:00:00.000Z",
+      "channelName": "S Sport 2 / S Sport Plus",
       "isFriendly": false
     }
   ]
