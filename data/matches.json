@@ -9,69 +9,6 @@
   "lookAheadHours": 168,
   "matches": [
     {
-      "id": "yayin:482780",
-      "homeTeam": "Bandırmaspor",
-      "awayTeam": "Antalyaspor",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-09-01T13:00:00.000Z",
-      "channelName": "TRT Spor / Bein Sports 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482781",
-      "homeTeam": "Ümraniyespor",
-      "awayTeam": "Muğlaspor",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-09-01T14:00:00.000Z",
-      "channelName": "TRT Türk / Bein Sports Max 1",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482782",
-      "homeTeam": "Sarıyer",
-      "awayTeam": "Pendikspor",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-09-01T17:00:00.000Z",
-      "channelName": "TRT Spor / Bein Sports 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:482783",
-      "homeTeam": "Boluspor",
-      "awayTeam": "Keçiörengücü",
-      "competition": "Trendyol 1. Lig",
-      "startsAt": "2026-09-01T17:00:00.000Z",
-      "channelName": "TRT Türk / Bein Sports Max 1",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486066",
-      "homeTeam": "Al Hilal",
-      "awayTeam": "Al Ahli",
-      "competition": "Suudi Arabistan Pro Lig",
-      "startsAt": "2026-09-01T18:00:00.000Z",
-      "channelName": "HT Spor / S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486067",
-      "homeTeam": "HEBC Hamburg",
-      "awayTeam": "Borussia Dortmund",
-      "competition": "Almanya Kupasi DFB Pokal",
-      "startsAt": "2026-09-01T18:45:00.000Z",
-      "channelName": "S Sport Plus",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:486451",
-      "homeTeam": "Torino",
-      "awayTeam": "Monza",
-      "competition": "İtalya Kupasi",
-      "startsAt": "2026-09-01T19:00:00.000Z",
-      "channelName": "TRT Spor",
-      "isFriendly": false
-    },
-    {
       "id": "yayin:482784",
       "homeTeam": "Vanspor",
       "awayTeam": "Batman Petrol",
@@ -81,12 +18,21 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:487012",
+      "homeTeam": "Udinese",
+      "awayTeam": "Venezia",
+      "competition": "İtalya Kupasi",
+      "startsAt": "2026-09-02T16:00:00.000Z",
+      "channelName": "tabii Spor",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:482785",
       "homeTeam": "Karagümrük",
       "awayTeam": "Kayserispor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-09-02T17:00:00.000Z",
-      "channelName": "Bein Sports 2 / tabii Spor 6",
+      "channelName": "TRT Türk / Bein Sports 2",
       "isFriendly": false
     },
     {
@@ -140,7 +86,7 @@
       "awayTeam": "Esenler Erokspor",
       "competition": "Trendyol 1. Lig",
       "startsAt": "2026-09-03T17:00:00.000Z",
-      "channelName": "Bein Sports Max 1 / tabii Spor 6",
+      "channelName": "TRT Türk / Bein Sports Max 1",
       "isFriendly": false
     },
     {
@@ -189,6 +135,33 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486948",
+      "homeTeam": "Başakşehir",
+      "awayTeam": "Galatasaray",
+      "competition": "TFF Elit U19 Ligi",
+      "startsAt": "2026-09-04T13:00:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486974",
+      "homeTeam": "Qabala",
+      "awayTeam": "Imisli",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-09-04T14:00:00.000Z",
+      "channelName": "CBC Sport",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486975",
+      "homeTeam": "Kapaz",
+      "awayTeam": "Shamakhi",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-09-04T16:15:00.000Z",
+      "channelName": "CBC Sport",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:483412",
       "homeTeam": "Arminia Bielefeld",
       "awayTeam": "St.Pauli",
@@ -213,6 +186,15 @@
       "competition": "Suudi Arabistan Pro Lig",
       "startsAt": "2026-09-04T18:00:00.000Z",
       "channelName": "S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486911",
+      "homeTeam": "Al Shabab",
+      "awayTeam": "Al Hilal",
+      "competition": "Suudi Arabistan Pro Lig",
+      "startsAt": "2026-09-04T18:00:00.000Z",
+      "channelName": "HT Spor",
       "isFriendly": false
     },
     {
@@ -333,6 +315,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486949",
+      "homeTeam": "Fenerbahçe",
+      "awayTeam": "Beşiktaş",
+      "competition": "TFF Elit U19 Ligi",
+      "startsAt": "2026-09-05T13:00:00.000Z",
+      "channelName": "FB TV",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:483376",
       "homeTeam": "Werder Bremen",
       "awayTeam": "Leipzig",
@@ -450,6 +441,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486976",
+      "homeTeam": "Sabah Bakü",
+      "awayTeam": "Zira",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-09-05T14:30:00.000Z",
+      "channelName": "CBC Sport",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:483527",
       "homeTeam": "Lyon",
       "awayTeam": "Auxerre",
@@ -501,6 +501,15 @@
       "competition": "İspanya La Liga",
       "startsAt": "2026-09-05T16:30:00.000Z",
       "channelName": "S Sport / S Sport Plus",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486977",
+      "homeTeam": "Neftçi Bakü",
+      "awayTeam": "Safa Bakü",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-09-05T16:30:00.000Z",
+      "channelName": "CBC Sport",
       "isFriendly": false
     },
     {
@@ -600,6 +609,15 @@
       "competition": "Portekiz Liga NOS",
       "startsAt": "2026-09-05T19:30:00.000Z",
       "channelName": "Bein Sports 2",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486937",
+      "homeTeam": "Hakkarigücü",
+      "awayTeam": "Galatasaray",
+      "competition": "Suwen Kadinlar Futbol Ligi",
+      "startsAt": "2026-09-06T10:00:00.000Z",
+      "channelName": "",
       "isFriendly": false
     },
     {
@@ -729,6 +747,33 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:486938",
+      "homeTeam": "Beşiktaş",
+      "awayTeam": "Yüksekova Spor",
+      "competition": "Suwen Kadinlar Futbol Ligi",
+      "startsAt": "2026-09-06T14:00:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486939",
+      "homeTeam": "Amedspor",
+      "awayTeam": "Fenerbahçe",
+      "competition": "Suwen Kadinlar Futbol Ligi",
+      "startsAt": "2026-09-06T14:00:00.000Z",
+      "channelName": "",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486978",
+      "homeTeam": "Turan",
+      "awayTeam": "Sumqayıt",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-09-06T14:00:00.000Z",
+      "channelName": "CBC Sport",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:484380",
       "homeTeam": "Valencia",
       "awayTeam": "Barcelona",
@@ -816,6 +861,15 @@
       "competition": "TFF 3. Lig",
       "startsAt": "2026-09-06T16:00:00.000Z",
       "channelName": "Yaay",
+      "isFriendly": false
+    },
+    {
+      "id": "yayin:486979",
+      "homeTeam": "Karabağ",
+      "awayTeam": "Araz",
+      "competition": "Azerbaycan Premier Ligi",
+      "startsAt": "2026-09-06T16:15:00.000Z",
+      "channelName": "CBC Sport",
       "isFriendly": false
     },
     {
