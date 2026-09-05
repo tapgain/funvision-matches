@@ -221,7 +221,7 @@
       "awayTeam": "Shakhtar Donetsk",
       "competition": "Ukrayna Premier Ligi",
       "startsAt": "2026-09-05T15:00:00.000Z",
-      "channelName": "",
+      "channelName": "Tivibu Spor",
       "isFriendly": false
     },
     {
@@ -414,6 +414,15 @@
       "isFriendly": false
     },
     {
+      "id": "yayin:487631",
+      "homeTeam": "Gimnasia Mendoza",
+      "awayTeam": "Boca Juniors",
+      "competition": "Arjantin Primera Division",
+      "startsAt": "2026-09-05T19:30:00.000Z",
+      "channelName": "Spor Smart / Smart Spor HD",
+      "isFriendly": false
+    },
+    {
       "id": "yayin:487613",
       "homeTeam": "San Lorenzo",
       "awayTeam": "Talleres Cordoba",
@@ -428,15 +437,6 @@
       "awayTeam": "Vasco Da Gama",
       "competition": "Brezilya Serie A",
       "startsAt": "2026-09-06T00:00:00.000Z",
-      "channelName": "Smart Spor 2 / Spor Smart 2",
-      "isFriendly": false
-    },
-    {
-      "id": "yayin:487614",
-      "homeTeam": "Velez Sarsfield",
-      "awayTeam": "Estudiantes",
-      "competition": "Arjantin Primera Division",
-      "startsAt": "2026-09-06T00:15:00.000Z",
       "channelName": "Spor Smart / Smart Spor HD",
       "isFriendly": false
     },
